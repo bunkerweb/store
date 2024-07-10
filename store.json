@@ -1,0 +1,10 @@
+{
+	"plugins": [
+		{
+			"name": "Example Plugin",
+			"id": "example.plugin",
+			"description": "An example plugin",
+			"url": "https://example.com/plugin.js"
+		}
+	]
+}
