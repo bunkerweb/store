@@ -7,6 +7,14 @@
       "url": "https://raw.githubusercontent.com/bunkerweb/store/main/plugins/ExamplePlugin.js",
       "version": "1.0.0",
       "author": "The Bunker Team"
+    },
+    {
+      "name": "Online Status Test",
+      "id": "onlinetest.plugin",
+      "description": "A simple plugin to test online/offline functionality of a plugin.",
+      "url": "https://raw.githubusercontent.com/bunkerweb/store/main/plugins/OnlineStatus.js",
+      "version": "1.0.0",
+      "author": "The Bunker Team"
     }
   ]
 }
