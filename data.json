@@ -7,6 +7,14 @@
       "url": "https://raw.githubusercontent.com/bunkerweb/store/main/plugins/ExamplePlugin.js",
       "version": "1.0.0",
       "author": "The Bunker Team"
+    },
+    {
+      "name": "Anti-Close",
+      "id": "noclose.plugin",
+      "description": "This plugin attempts to prevent teachers from closing the tab when enabled.",
+      "url": "https://raw.githubusercontent.com/bunkerweb/store/main/plugins/AntiClose.js",
+      "version": "1.0.0",
+      "author": "Cattn"
     }
   ]
 }
